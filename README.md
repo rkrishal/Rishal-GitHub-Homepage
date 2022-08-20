@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I'm Learning Node.js, MySql and MongoDB👨‍💻
 - 👯 I’m looking to collaborate on more opensource projects
 - ⚡  Ask me about anything. I am happy to help
-- 📮 Reach me here : [Rishal](https://www.linkedin.com/in/rkrishal/)
+- 📮 Reach me here : [Rishal]()
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
